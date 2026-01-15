@@ -2,6 +2,12 @@
 
 A sophisticated 3D traffic simulation built with **C++** and **Raylib**. This project represents a technical merger of two distinct simulation architectures: combining a high-fidelity **3D Grid Map** with an abstract **Node-Based Graph System** for intelligent pathfinding.
 
+
+https://github.com/user-attachments/assets/c7a57661-f08b-45de-9489-b19f89e150b6
+
+
+
+
 ## ✨ Key Functionalities
 
 ### 1. 🧠 Hybrid Navigation System (The "Ghost Graph")
