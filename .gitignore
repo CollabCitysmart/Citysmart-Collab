@@ -1,0 +1,22 @@
+# Ignore build and temporary folders
+build/
+out/
+vcpkg_installed/
+.vs/
+.vscode/
+x64/
+Debug/
+Release/
+
+# Ignore compiled object files and executables
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.user
+*.suo
+*.db
+
+# BUT keep these important folders (force them to be tracked if needed)
+!assets/
+!raylib-lib/

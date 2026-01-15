@@ -1,0 +1,6 @@
+{
+    "name": "citysmart",
+    "description":"citysmart",
+    "license": "MIT",
+    "dependencies":["raylib"]
+}
